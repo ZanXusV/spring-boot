@@ -68,7 +68,7 @@
 		<dropwizard-metrics.version>3.1.2</dropwizard-metrics.version>
 		<ehcache.version>2.10.3</ehcache.version>
 		<ehcache3.version>3.2.0</ehcache3.version>
-		<embedded-mongo.version>1.50.5</embedded-mongo.version>
+		<embedded-mongo.version>2.1.1</embedded-mongo.version>
 		<flyway.version>3.2.1</flyway.version>
 		<freemarker.version>2.3.25-incubating</freemarker.version>
 		<elasticsearch.version>2.4.3</elasticsearch.version>
@@ -81,7 +81,7 @@
 		<hazelcast.version>3.7.4</hazelcast.version>
 		<hazelcast-hibernate4.version>3.7.1</hazelcast-hibernate4.version>
 		<hazelcast-hibernate5.version>1.1.3</hazelcast-hibernate5.version>
-		<hibernate.version>5.2.5.Final</hibernate.version>
+		<hibernate.version>5.2.18.Final</hibernate.version>
 		<hibernate-validator.version>5.2.4.Final</hibernate-validator.version>
 		<hikaricp.version>2.5.1</hikaricp.version>
 		<hikaricp-java6.version>2.3.13</hikaricp-java6.version>
@@ -137,8 +137,8 @@
 		<querydsl.version>4.1.4</querydsl.version>
 		<reactor.version>3.0.4.RELEASE</reactor.version>
 		<selenium.version>2.53.1</selenium.version>
-		<selenium-htmlunit.version>2.23.2</selenium-htmlunit.version>
-		<sendgrid.version>2.2.2</sendgrid.version>
+		<selenium-htmlunit.version>4.8.1</selenium-htmlunit.version>
+		<sendgrid.version>3.0.0</sendgrid.version>
 		<servlet-api.version>3.1.0</servlet-api.version>
 		<simple-json.version>1.1.1</simple-json.version>
 		<slf4j.version>1.7.22</slf4j.version>
@@ -160,7 +160,7 @@
 		<spring-retry.version>1.2.0.RC1</spring-retry.version>
 		<spring-security.version>4.2.1.RELEASE</spring-security.version>
 		<spring-security-jwt.version>1.0.7.RELEASE</spring-security-jwt.version>
-		<spring-security-oauth.version>2.0.12.RELEASE</spring-security-oauth.version>
+		<spring-security-oauth.version>2.4.0.RELEASE</spring-security-oauth.version>
 		<spring-session.version>1.3.0.RELEASE</spring-session.version>
 		<spring-social.version>2.0.0.M1</spring-social.version>
 		<spring-social-facebook.version>3.0.0.M1</spring-social-facebook.version>
